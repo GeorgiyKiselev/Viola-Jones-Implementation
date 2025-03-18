@@ -17,3 +17,8 @@ This determines how much the the image size is reduced during the detection proc
 
 ### Minimum Neighbors
 This parameter defines how many candidate detections (potential objects detected by the algorithm) must have neighboring rectangles to be kept as a formally detected object. This parameter influences how strict the model is with detecting targets, and determines quality and quantity of detections. 
+
+
+## Impact of the Algorithm
+
+Despite the advent of more accurate methods, Viola-Jones remains as an extremely fast and computationally efficient object detection algorithm that still sees use today.
